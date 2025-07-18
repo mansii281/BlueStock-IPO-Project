@@ -1,0 +1,13 @@
+Django>=5.0,<6.0
+djangorestframework
+gunicorn
+psycopg2-binary
+Pillow
+whitenoise
+dj-database-url
+python-decouple
+dj-database-url
+django-cors-headers
+djangorestframework-simplejwt
+django-ranged-response
+django-simple-captcha
